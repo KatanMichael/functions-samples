@@ -6,7 +6,7 @@
     "ffmpeg-static": "^2.0.0",
     "fluent-ffmpeg": "^2.1.2",
     "firebase-admin": "~7.1.1",
-    "firebase-functions": "^2.2.1"
+    "firebase-functions": "^3.6.2"
   },
   "devDependencies": {
     "eslint": "^4.13.1",
