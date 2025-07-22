@@ -2,7 +2,7 @@
   "name": "url-shortener-functions",
   "description": "URL Shortener Firebase Functions sample",
   "dependencies": {
-    "bitly": "^5.0.12",
+    "bitly": "^7.0.1",
     "firebase-admin": "~7.1.1",
     "firebase-functions": "^2.2.1"
   },
