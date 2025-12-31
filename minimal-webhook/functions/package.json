@@ -2,7 +2,7 @@
   "name": "minimal-webhook-functions",
   "description": "Queries a Webhook Firebase Functions sample",
   "dependencies": {
-    "request-promise": "^2.0.0",
+    "request-promise": "^4.2.6",
     "firebase-admin": "~7.1.1",
     "firebase-functions": "^2.2.1"
   },
